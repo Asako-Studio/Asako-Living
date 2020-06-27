@@ -1,0 +1,10 @@
+{
+  "disableScroll": true,
+  "usingComponents": {
+    "kp-icon": "/components/kp-icon/index",
+    "kp-tag": "/components/kp-tag/index",
+    "kp-navbar": "/components/kp-navbar/index",
+    "kp-spin": "/components/kp-spin/index",
+    "kp-actionsheet": "/components/kp-actionsheet/index"
+  }
+}
